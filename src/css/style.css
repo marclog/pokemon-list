@@ -4,6 +4,8 @@ body{
     margin: 0 auto;
     background-image: url(../imagens/background-light-mode.jpg);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     color: #333333;
 }
 
